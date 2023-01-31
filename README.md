@@ -1,7 +1,7 @@
 # Project Name
 Surprise Housing : Prediction price vary with the data variables
 
-A US-based housing company named Surprise Housing has decided to enter the Australian market.The company is looking at prospective properties to buy to enter the > > market in Australian.
+A US-based housing company named Surprise Housing has decided to enter the Australian market.The company is looking at prospective properties to buy to enter the market in Australian.
 
 Need to build a model using the test data collected from the sale of houses in Australia and to build a model to predict the price of houses with the available independent variables. This model will then be used by the management to understand how exactly the prices vary with the variables. They can accordingly manipulate the strategy of the firm and concentrate on areas that will yield high returns
 > 
